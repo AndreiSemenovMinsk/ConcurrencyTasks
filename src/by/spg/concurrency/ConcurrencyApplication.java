@@ -9,6 +9,8 @@ public class ConcurrencyApplication {
             @Override
             public void run() {
                 System.out.println("rnb3");
+
+                System.out.println("add");
             }
         };
 
