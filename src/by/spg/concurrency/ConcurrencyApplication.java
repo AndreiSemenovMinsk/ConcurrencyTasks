@@ -10,7 +10,7 @@ public class ConcurrencyApplication {
             public void run() {
                 System.out.println("rnb5");
 
-                System.out.println("add");
+                System.out.println("add me");
             }
         };
 
