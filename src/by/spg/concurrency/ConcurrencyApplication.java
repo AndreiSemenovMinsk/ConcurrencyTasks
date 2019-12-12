@@ -8,7 +8,7 @@ public class ConcurrencyApplication {
         Runnable rnbl = new Runnable() {
             @Override
             public void run() {
-                System.out.println("rnbl");
+                System.out.println("rnb2");
             }
         };
 
